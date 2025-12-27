@@ -272,7 +272,6 @@ Con l'opzione `--convert-to-stl`, viene generato anche un file STL, utile per la
 
 - [Documentazione ufficiale Google Gemini Image Generation](https://ai.google.dev/gemini-api/docs/image-generation?hl=it)
 - [Google AI Studio](https://ai.google.dev/) - Ottieni la tua API key gratuita
-- [SDK Google GenAI per Python](https://github.com/google/generative-ai-python)
 - [Hunyuan3D API Documentation](https://fal.ai/models/fal-ai/hunyuan3d/v2/multi-view/api) - Documentazione API per generazione 3D
 - [fal.ai](https://fal.ai/) - Piattaforma per modelli AI
 

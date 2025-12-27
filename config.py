@@ -1,6 +1,9 @@
-"""Configurazione per l'API di Nano Banana (Google Gemini)"""
 import os
 from dotenv import load_dotenv
+
+"""
+Configurazione per l'API di Nano Banana (Google Gemini)
+"""
 
 load_dotenv()
 
@@ -33,4 +36,3 @@ class Config:
                 "Imposta la variabile d'ambiente GEMINI_API_KEY o NANO_BANANA_API_KEY nel file .env. "
                 "Ottieni la chiave su: https://ai.google.dev/"
             )
-
